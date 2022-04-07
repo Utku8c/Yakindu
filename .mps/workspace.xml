@@ -29,7 +29,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="b1480862-9147-493f-adcc-b4458a651818/r:ff3209a7-1ac3-4ab6-b364-54483428cdf7(TempModuleb1480862-9147-493f-adcc-b4458a651818/ConsoleModel_1210211166501600)">
+            <model ref="5324dd46-7a38-45d1-ba90-eb6a9850be99/r:ab98bd44-a245-457f-9a21-60d9855be304(TempModule5324dd46-7a38-45d1-ba90-eb6a9850be99/ConsoleModel_1216460570776900)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -49,11 +49,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="2rwR9vdBXlF">
-                <node concept="3balQm" id="2rwR9vdBXlG" role="aymYE" />
-                <node concept="2Clz$F" id="2rwR9vdBXlH" role="aymYO" />
-                <node concept="2_V_lH" id="2rwR9vdBXlI" role="1PhJh3">
-                  <ref role="2_V_lI" node="2rwR9vdBXlH" resolve="CommandHolder" />
+              <node concept="aymSD" id="4ZN9JYHxv2x">
+                <node concept="3balQm" id="4ZN9JYHxv2y" role="aymYE" />
+                <node concept="2Clz$F" id="4ZN9JYHxv2z" role="aymYO" />
+                <node concept="2_V_lH" id="4ZN9JYHxv2$" role="1PhJh3">
+                  <ref role="2_V_lI" node="4ZN9JYHxv2z" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -74,9 +74,6 @@
         <flags show_one_result="true" new_tab="false" />
       </view>
     </search_options>
-  </component>
-  <component name="Git.Settings">
-    <option name="PATH_TO_GIT" value="C:\Program Files\Git\git-cmd.exe" />
   </component>
   <component name="MPSBookmarkManager">
     <option name="myBookmarkInfos">
@@ -312,52 +309,52 @@
               <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#module#ISO21434" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#nonLonelyModel#MethodConfiguration" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#module#ISO21434" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Assistants" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#module#ISO21434" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Security Analysis" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -395,17 +392,29 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#module#ISO21434" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Security Analysis" />
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#nonLonelyModel#MethodConfiguration" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
           <SELECTED>
             <PATH_ELEMENT>
               <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assistants" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#projectTreeContent#Asset Identification" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -562,11 +571,11 @@
     </default_view_options>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2660" y="278" key="FileChooserDialogImpl" timestamp="1649323271060">
+    <state x="2660" y="278" key="FileChooserDialogImpl" timestamp="1649330040347">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648813838480" />
-    <state x="2660" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1649323271060" />
+    <state x="2660" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1649330040347" />
     <state x="2749" y="418" key="Github.ShareDialog" timestamp="1649321463071">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -575,9 +584,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2460" y="266" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1649315198437" />
-    <state x="2383" y="165" key="SettingsEditor" timestamp="1649322842864">
+    <state x="2383" y="165" key="SettingsEditor" timestamp="1649330054186">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2383" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1649322842864" />
+    <state x="2383" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1649330054186" />
   </component>
 </project>
