@@ -306,31 +306,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Yakindu" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assistants" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -341,6 +317,16 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#module#ISO21434" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,11 +350,11 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#module#ISO21434" />
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#nonLonelyModel#Catalog" />
+              <option name="myItemId" value="Assistants" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,11 +364,11 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#lonelyModel#Project" />
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#module#ISO21434" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Item Definition" />
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#nonLonelyModel#Catalog" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,7 +386,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <SELECTED>
+          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
               <option name="myItemType" value="" />
@@ -410,11 +396,13 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Assistants" />
+              <option name="myItemId" value="Item Definition" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <SELECTED>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#projectTreeContent#Asset Identification" />
+              <option name="myItemId" value="com.moraad.application.plugin.SecA Project Explorer#project#Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
