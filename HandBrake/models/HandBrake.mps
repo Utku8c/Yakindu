@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:8d7ac9a6-49cb-48ab-b50b-c4675f213ef7(Project)">
+<model ref="r:8d7ac9a6-49cb-48ab-b50b-c4675f213ef7(HandBrake)">
   <persistence version="9" />
   <languages>
+    <use id="f3061a53-9226-4cc5-a443-f952ceaf5816" name="jetbrains.mps.baseLanguage" version="9" />
+    <use id="f2801650-65d5-424e-bb1b-463a8781b786" name="jetbrains.mps.baseLanguage.javadoc" version="2" />
     <devkit ref="9b903ecd-ba57-441e-8d7c-d3f1fbfcc047(com.moraad)" />
   </languages>
   <imports>
@@ -1606,7 +1608,7 @@
       <property role="2iWz9l" value="true" />
       <property role="3Oa_Xm" value="true" />
       <property role="3Oa_Xj" value="true" />
-      <ref role="39i2te" node="cSKXta$VKi" resolve="Project Info: Project [Project]" />
+      <ref role="39i2te" node="cSKXta$VKi" resolve="Project Info: HandBrake [Project]" />
     </node>
     <node concept="yhPIs" id="cSKXta$VMb" role="yp9Ks">
       <property role="2DBfkM" value="false" />
